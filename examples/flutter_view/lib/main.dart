@@ -18,9 +18,9 @@ class FlutterView extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter View',
       theme: ThemeData(
-        primarySwatch: Colors.grey,
+        primarySwatch: Colors.gray,
       ),
-      home: const MyHomePage(),
+      home: const MyHomePage(),//nox_adb.exe connect 127.0.0.1:62001
     );
   }
 }

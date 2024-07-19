@@ -8,7 +8,7 @@ void main() =>
   runApp(
     const Center(
       child:
-        Text('Hello, world!',
+        Text('Hello, world!123',
           key: Key('title'),
           textDirection: TextDirection.ltr,
         ),
